@@ -7,6 +7,12 @@ body {
 
 main {
   flex: 1;
+}   
+
+#hero {
+  background: linear-gradient(#00000077, #000000c5), url(../assets/img/jason-mavrommatis-9HEY1URQIQY-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
 }
 
 footer {
