@@ -116,7 +116,35 @@ footer {
   color: #0056ff;
 }
 
+.tp-4 {
+  background-color: #E1F3E5;
+  height: fit-content;
+  border-radius: 10px;
+  margin-bottom: 3rem;
+}
+
+.carousel-item {
+
+  border-radius: 10px;
+  height: fit-content;
+  padding: 40px;
+}
+
+.carousel-item img {
+  width: 100%; 
+  max-width: 500px; 
+  height: auto; 
+  border-radius: 20px;
+  margin-left: 20px;
+  font-size: ;
+}
+
 /* Responsividade da página*/
+
+
+
+
+
 @media (max-width: 768px) {
   .footer-container {
     flex-direction: column;
